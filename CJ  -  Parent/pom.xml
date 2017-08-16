@@ -5,6 +5,7 @@
 	<groupId>cj.software</groupId>
 	<artifactId>parent</artifactId>
 	<version>1-SNAPSHOT</version>
+	<packaging>pom</packaging>
 	
 	<name>CJ  -  Parent</name>
 	<description>Parent of all my projects</description>
