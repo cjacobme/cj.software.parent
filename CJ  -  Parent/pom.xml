@@ -9,6 +9,10 @@
 
 	<name>CJ  -  Parent</name>
 	<description>Parent of all my projects</description>
+	
+	<scm>
+	   <url>git@github.com:cjacobme/cj.software.parent.git</url>
+	</scm>
 
 	<properties>
 		<!-- common build properties -->
